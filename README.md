@@ -1,4 +1,6 @@
-#### MMU Graduate Research Assistant / [PhD Student](https://user-images.githubusercontent.com/98084380/150469358-4742b0c6-6c21-45f1-8bd4-6e09a4e6779b.jpg)
+#### MMU Graduate Research Assistant /<p>
+<a href="38. Ajayi Ebenezer.pdf" target="_blank">PhD Student</a>
+</p> 
 <img align="left" width="100" height="100" src="https://avatars.githubusercontent.com/u/98084380?s=400&u=d9d34541e2219afbcc067ba1ab094bacb73b5423&v=4">
 <p>
 <a href="NvidagrantCV.pdf" target="_blank">CV</a>
