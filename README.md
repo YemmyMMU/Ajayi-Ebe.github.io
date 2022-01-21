@@ -75,7 +75,7 @@ Courses Taught
 ### Round Talks/
 <ol>
 <li>Round table talk on Africa Artificial Intelligence Stakeholders’ Summit held on Tuesday, December 14, 2021
-at Amphitheatre 3, Academic City University College, Accra, Ghana, West Africa. – One of the Panellists.</li>
+at Amphitheatre 3, Academic City University College, Accra, Ghana, West Africa. – **One of the Panellists.**</li>
 
 <li>Virtual Laboratory: A Practical Approach to Conducting a Successful Laboratory-Based Research at the
 Pandemic Period presented at Kogi State Chapter of Nigeria Computer Society online webinar held on 20th
