@@ -94,4 +94,4 @@ presented at Research Consortium on Information Technology Innovations (ReCITI 2
 Science Student (NACOSS) Federal Polytechnic Idah Chapter, May 2006.</li> 
 
 </ol>
-<a href="NvidagrantCV.pdf" target="_blank">PhD Student</a>
+
