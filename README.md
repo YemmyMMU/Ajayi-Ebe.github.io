@@ -95,5 +95,6 @@ Science Student (NACOSS) Federal Polytechnic Idah Chapter, May 2006.</li>
 
 </ol>
 
-<a href="https://github.com/Ajayi-Ebe/cv/raw/main/NvidagrantCV.pdf" target="_blank">PhD Student</a>
+<a href="https://github.com/Ajayi-Ebe/Ajayi-Ebe.github.io/files/7911670/NvidagrantCV.pdf" target="_blank">PhD Student</a>
+
 
