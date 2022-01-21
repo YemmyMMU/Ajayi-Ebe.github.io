@@ -1,4 +1,4 @@
-###  &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ajayi Ebenezer Akinyemi
+###  &nbsp;&nbsp;&nbsp;&nbsp; Ajayi Ebenezer Akinyemi
 
 <img align="left" width="150" height="150" src="https://avatars.githubusercontent.com/u/98084380?s=400&u=d9d34541e2219afbcc067ba1ab094bacb73b5423&v=4">
 <p>
@@ -20,6 +20,9 @@ Ajayi Ebenezer Akinyemi is a third-year Ph.D. student in the Faculty of Informat
 
 ### Skills: 
 Python, C++,  Pytorch, libigl 
+
+### Certification 
+Intooduction to Deep Learning by Coursera - May 2020
 
 ### Education 
 <img align="left" width="100" height="50" src="https://th.bing.com/th/id/OIP.hnnm8v5KN-jdfBIIZLrlUQHaCk?w=334&h=121&c=7&r=0&o=5&pid=1.7">
@@ -75,6 +78,18 @@ Courses Taught
 <li>IEEE Access		    -	      November 2020 – Present</li>
 <li>IET Computer Vision 	-  	November 2020 – Present</li>  
 <li>Academicia in Information Technology Profession(AITP)  -  2018 – Present</li> 
+</ol>
+
+### Book Chapter Contribution 
+<ol>
+<li>Emmanuel B. G., Daniel D. W., Grace G. J., Mohammad A. A., Samson I & Ajayi E.A (2021). Mathematical
+recipe for curbing coronavirus (COVID-19) transmition dynamics. In Utku Kose, Deepak Gupta, Victor de
+Albuquerque, & Ashish Khanna(Eds), Data Science for Covid-19 volume1(1st ed, chapter 28). Elsevier.
+https://www.elsevier.com/books/data-science-for-covid-19-volume-1/kose/978-0-12-824536-1 </li>
+<li>Emmanuel B. G., Daniel D. W., Mohammad A. A., Onwuka G.I., Ajayi E.A & Odewale O.O. (2021). Modeling
+the transmission Dynamics of COVID-19 virus diseases in Nigeria. In M. Niranjanamurthy, Siddhartha
+Bhattacharyya, Neeraj Kumar (Eds.), Intelligent Data Analysis for COVID-19 Pandemic. Springer.
+Accepted for publication.</li>
 </ol>
 
 ### Symposium / Round-Table Talks 
