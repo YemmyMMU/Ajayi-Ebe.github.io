@@ -1,15 +1,12 @@
 ### Ajayi Ebenezer Akinyemi
 
-<img align="left" width="100" height="100" src="https://avatars.githubusercontent.com/u/98084380?s=400&u=d9d34541e2219afbcc067ba1ab094bacb73b5423&v=4">
-/<p>
+<img align="left" width="150" height="150" src="https://avatars.githubusercontent.com/u/98084380?s=400&u=d9d34541e2219afbcc067ba1ab094bacb73b5423&v=4">
+<p>
 <a href="38. Ajayi Ebenezer.pdf" target="_blank">MMU Graduate Research Assistant/PhD Student</a>
 </p> 
 <p>
 <a href="NvidagrantCV.pdf" target="_blank">CV/Resume</a>
 </p>
-
-<br>
-<br>
 <br>
 <br>
 <br/>
