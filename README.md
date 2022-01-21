@@ -72,4 +72,4 @@ Courses Taught
 </ol>
 
 ### MMU-GRA Appointment Letter
-<img align="left" width="450" height="550" src="https://user-images.githubusercontent.com/98084380/150465513-83fcdcb5-0cf6-45fd-947d-8b12dde9333f.jpg">
+<img align="left" width="600" height="700" src="https://user-images.githubusercontent.com/98084380/150465513-83fcdcb5-0cf6-45fd-947d-8b12dde9333f.jpg">
