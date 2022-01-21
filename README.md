@@ -69,6 +69,7 @@ Courses Taught
 <li>Artificial Intelligence Reviews - January 2020 –Present</li>
 <li>IEEE Access		    -	      November 2020 – Present</li>
 <li>IET Computer Vision 	-  	November 2020 – Present</li>  
+<li>Academicia in Information Technology Profession(AITP)  -  2018 – Present</li> 
 </ol>
 
 
