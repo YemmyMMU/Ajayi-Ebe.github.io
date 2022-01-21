@@ -75,7 +75,7 @@ Courses Taught
 ### Symposium / Round-Table Talks 
 <ol>
 <li>Round table talk on Africa Artificial Intelligence Stakeholders’ Summit held on Tuesday, December 14, 2021
-at Amphitheatre 3, Academic City University College, Accra, Ghana, West Africa. – **One of the Panellists.** </li>
+at Amphitheatre 3, Academic City University College, Accra, Ghana, West Africa. – One of the Panellists. </li>
 
 <li>Virtual Laboratory: A Practical Approach to Conducting a Successful Laboratory-Based Research at the
 Pandemic Period presented at Kogi State Chapter of Nigeria Computer Society online webinar held on 20th
@@ -87,9 +87,10 @@ Chapter Research and Development Workshop held at Kogi State University, Anyigba
 <li>Student Mentorship- a case study of Nigerian Student at 2014 Nigeria Computer Society Kogi State Chapter
 Research and Development Workshop held at Kogi State Polytechnic, Lokoja, Kogi State in November 27th
 2014.</li>
-<li><li>Instance-Based Learning Model for Timing Analysis of Keystrokes and Timing Attacks on Secure Shell
-presented at Research Consortium on Information Technology Innovations (ReCITI 2013) at Royal Park
-Hotel, Iloko-Ijesa, The State of Osun – Nigeria July 24th -26th, July 2013.</li>
+  
+<li>Instance-Based Learning Model for Timing Analysis of Keystrokes and Timing Attacks on Secure Shell
+presented at Research Consortium on Information Technology Innovations (ReCITI 2013) at Royal Park Hotel, Iloko-Ijesa, The State of Osun – Nigeria July 24th -26th, July 2013.</li>
+  
 <li>The need for professionalism in Computer Science at the annual summit Nigeria Association of Computer
 Science Student (NACOSS) Federal Polytechnic Idah Chapter, May 2006.</li> 
 
