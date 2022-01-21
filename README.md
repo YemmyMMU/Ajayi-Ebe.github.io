@@ -61,8 +61,6 @@ Courses Taught
 <li>Teaching and Supervising students progect and seminar </li>
 <li>Administartive functions</li> 
 </ol>
-<br>
-
 ### Paper Review
 <ol>
 <li>IntechOpen		       -  January 2022 – Present </li>
