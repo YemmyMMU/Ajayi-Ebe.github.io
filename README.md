@@ -52,7 +52,7 @@ Courses Taught
 <li>Artificial Intelligence Fundamentals </li>
 <li>Semantic Web Technologies </li>
 <li>Database Management System</li>  
-<li>Data Communication and Networks </li>    
+<li>Data Communication and Networking </li>    
 <li>Database Management System</li>    
 </ol>
 
