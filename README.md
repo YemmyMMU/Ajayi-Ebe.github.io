@@ -1,5 +1,5 @@
 #### MMU Graduate Research Assistant /PhD Student
-[PhD Student](https://user-images.githubusercontent.com/32791222/149988995-c565bd43-a8ab-42e2-b46c-80a296081c78.png)
+[PhD Student](https://user-images.githubusercontent.com/98084380/150465513-83fcdcb5-0cf6-45fd-947d-8b12dde9333f.jpg)
 <img align="left" width="100" height="100" src="https://avatars.githubusercontent.com/u/98084380?s=400&u=d9d34541e2219afbcc067ba1ab094bacb73b5423&v=4">
 <br>
 <br>
