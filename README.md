@@ -94,3 +94,5 @@ presented at Research Consortium on Information Technology Innovations (ReCITI 2
 Science Student (NACOSS) Federal Polytechnic Idah Chapter, May 2006.</li> 
 
 </ol>
+
+<a href="https://user-images.githubusercontent.com/98084380/150469358-4742b0c6-6c21-45f1-8bd4-6e09a4e6779b.jpg" target="_blank">PhD Student</a>
