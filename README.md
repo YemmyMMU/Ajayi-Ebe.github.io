@@ -71,5 +71,4 @@ Courses Taught
 <li>IET Computer Vision 	-  	November 2020 – Present</li>  
 </ol>
 
-### MMU-GRA Appointment Letter
-<img align="left" width="700" height="850" src="https://user-images.githubusercontent.com/98084380/150465513-83fcdcb5-0cf6-45fd-947d-8b12dde9333f.jpg">
+
