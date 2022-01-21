@@ -1,4 +1,4 @@
-#### MMU Graduate Research Assistant / [PhD Student](https://user-images.githubusercontent.com/98084380/150465513-83fcdcb5-0cf6-45fd-947d-8b12dde9333f.jpg)
+#### MMU Graduate Research Assistant / [PhD Student](https://user-images.githubusercontent.com/98084380/150469358-4742b0c6-6c21-45f1-8bd4-6e09a4e6779b.jpg)
 [PhD Student](https://user-images.githubusercontent.com/98084380/150465513-83fcdcb5-0cf6-45fd-947d-8b12dde9333f.jpg)
 [Resume](https://github.com/Ajayi-Ebe/resume/raw/main/NvidagrantCV.pdf)
 <img align="left" width="100" height="100" src="https://avatars.githubusercontent.com/u/98084380?s=400&u=d9d34541e2219afbcc067ba1ab094bacb73b5423&v=4">
