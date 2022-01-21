@@ -1,13 +1,15 @@
 #### MMU Graduate Research Assistant / [PhD Student](https://user-images.githubusercontent.com/98084380/150469358-4742b0c6-6c21-45f1-8bd4-6e09a4e6779b.jpg)
 <img align="left" width="100" height="100" src="https://avatars.githubusercontent.com/u/98084380?s=400&u=d9d34541e2219afbcc067ba1ab094bacb73b5423&v=4">
+<p>
+<a href="NvidagrantCV.pdf" target="_blank">CV</a>
+</p>
+
 <br>
 <br>
 <br>
 <br>
 <br/>
-<p>
-<a href="NvidagrantCV.pdf" target="_blank">CV</a>
-</p>
+
 ### About me
 Ajayi Ebenezer Akinyemi is a third-year Ph.D. student in the Faculty of Information, Science and Technology, Multimedia University (MMU), Malaysia, and a Senior Lecturer with the Computer Science Department, Kebbi State Polytechnic Dakingari, Nigeria. Before that, I received my Master of Technology degree from the Federal University of Technology, Akure, Ondo State, Nigeria in 2014.
 
