@@ -70,8 +70,6 @@ Courses Taught
 <li>IEEE Access		    -	      November 2020 – Present</li>
 <li>IET Computer Vision 	-  	November 2020 – Present</li>  
 </ol>
-<br>
-<br/>
 
 ### MMU-GRA Appointment Letter
 
