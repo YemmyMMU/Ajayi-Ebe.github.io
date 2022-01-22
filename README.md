@@ -2,7 +2,7 @@
 
 <img align="left" width="150" height="150" src="https://avatars.githubusercontent.com/u/98084380?s=400&u=d9d34541e2219afbcc067ba1ab094bacb73b5423&v=4">
 <p>
-<a href="38. Ajayi Ebenezer.pdf" target="_blank">MMU Graduate Research Assistant/PhD Student</a>
+<a href="38. Ajayi Ebenezer.pdf" target="_blank">MMU Graduate Research Assistant / PhD Student</a>
 </p> 
 
 <p>
@@ -15,7 +15,7 @@
 ### About me
 Ajayi Ebenezer Akinyemi is a third-year Ph.D. student in the Faculty of Information, Science and Technology, Multimedia University (MMU), Malaysia, and a Senior Lecturer with the Computer Science Department, Kebbi State Polytechnic Dakingari, Nigeria. Before that, I received my Master of Technology degree from the Federal University of Technology, Akure, Ondo State, Nigeria in 2014.
 
-### Reseach Interest 
+### Research Interest 
 **Machine Learning, Computer Vision, 3D Deep Learning, Computer Graphics, and Cyber-Security**
 
 ### Skills: 
@@ -67,8 +67,8 @@ Courses Taught
 
 **Computer Science Department, Kebbi State Polytechnic Dakingari (Senior Lecturer  April. 2015 - Present)** 
 <ol>
-<li>Teaching and Supervising students progect and seminar </li>
-<li>Administartive functions</li> 
+<li>Teaching and Supervising students project and seminar </li>
+<li>Administrative functions</li> 
 </ol>
 
 ### Paper Review
