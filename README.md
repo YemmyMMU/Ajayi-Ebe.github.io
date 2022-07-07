@@ -94,6 +94,8 @@ Accepted for publication.</li>
 
 ### Symposium / Round-Table Talks 
 <ol>
+<li>Academic Rountable Talk on "Nigeria Education System at Post COVID-19 Pandemic" organized by Nigeria Computer Socirty, Kogi State Chapter during their 2022 Thechies Week held on 29th June 2022 at Federal University Lokoja, Kogi State, Nigeria, West Africa. – One of the Panellists. </li>
+  
 <li>Round table talk on Africa Artificial Intelligence Stakeholders’ Summit held on Tuesday, December 14, 2021
 at Amphitheatre 3, Academic City University College, Accra, Ghana, West Africa. – One of the Panellists. </li>
 
